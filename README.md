@@ -31,4 +31,4 @@ Below is summary of available functions.
 - Withdraw from specific course.
   * GET /withdraw/:courseID
 
-**Note:** All requests must contains "user-id" in HTTP Headers.
+**Note:** All requests must contain "user-id" in HTTP Headers.
