@@ -21,7 +21,7 @@ Below is summary of available functions.
 - Unassign course from teacher.
   * GET /unassign/:courseID/:teacherID
 
-**Functions available to Teacher only:**
+**Functions available to Teachers only:**
 - Set student's mark for specific enrolled course.
    * GET /set-mark/:enrolmentID/:newMark
 
